@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-#include "D:\学习\高级语言程序设计\VSCcodes\Lib\include\fraction.h"//In Github:
+#include "D:\学习\高级语言程序设计\VSCcodes\Lib\include\fraction.h"//In Github:/Programming/C|C++/Lib/Res/include/fraction.h
 #include <iostream>//It's included in the fraction.h
 using namespace std;
 
